@@ -1,2 +1,2 @@
 # Amplify-App
-AWS Amplify App for Shavis.co
+AWS Amplify App for Shavis.co.in
